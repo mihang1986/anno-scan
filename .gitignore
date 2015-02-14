@@ -1,0 +1,11 @@
+#  Global #
+*.class
+*.jar
+*.war
+*.ear
+
+# anno-scan [eclipse / intellij] #
+.project
+.settings
+.classpath
+target
